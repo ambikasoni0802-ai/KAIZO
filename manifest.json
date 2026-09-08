@@ -1,0 +1,13 @@
+{
+  "name": "KAIZO — Wear the Change",
+  "short_name": "KAIZO",
+  "description": "Performance streetwear built for people who change their own game.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
